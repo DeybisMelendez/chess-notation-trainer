@@ -1,0 +1,18 @@
+[Event "Miscellaneous Game"]
+[Site "?"]
+[Date "1620.??.??"]
+[EventDate "?"]
+[Round "41"]
+[Result "1-0"]
+[White "Gioachino Greco"]
+[Black "NN"]
+[ECO "C23"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1.e4 e5 2.Bc4 Bc5 3.Qe2 Qe7 4.f4 exf4 5.Nf3 g5 6.h4 f6 7.hxg5
+fxg5 8.Nc3 c6 9.d4 g4 10.Nh4 Bxd4 11.Nf5 Bxc3+ 12.bxc3 Qf6
+13.Bxf4 Qxc3+ 14.Kf2 b5 15.Bb3 a5 16.Nd6+ Kd8 17.Qxg4 Ne7
+18.Nf7+ Ke8 19.Qh5 Qd4+ 20.Kf3 Qc3+ 21.Ke2 Rf8 22.Nd6+ Kd8
+23.Qe8+ Rxe8 24.Nf7# 1-0

@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London, England"]
+[Date "1789.01.26"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Philidor"]
+[Black "John M Bruehl"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppppp1pp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+
+1.e4 d5 2.e5 Bf5 3.g4 Bg6 4.h4 h5 5.Nh3 Qd7 6.Nf4 Bf7 7.g5 Qf5
+8.d4 Qe4+ 9.Qe2 Qxh1 10.g6 e6 11.Qb5+ Nd7 12.gxf7+ Kd8
+13.fxg8=Q Rxg8 14.Nxe6+ Kc8 15.Be3 Qxh4 16.Qxd5 Be7 17.Ba6 Rb8
+18.Qc6 Bd8 19.Bg5 1-0

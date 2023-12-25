@@ -1,0 +1,15 @@
+[Event "Philidor Chess Program"]
+[Site "?"]
+[Date "1990.??.??"]
+[EventDate "1790.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Philidor"]
+[Black "NN"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "21"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Ng5 Nh6 6. a4 Be7
+7. Bxf7+ Nxf7 8. Ne6 Qa5+ 9. Bd2 Qb6 10. a5 Qxb2 11. Bc3 1-0

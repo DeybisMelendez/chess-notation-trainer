@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Chess Notation Trainer</title>
+		<link rel="stylesheet" href="/css/chessboard-1.0.0.min.css" />
+		<link rel="stylesheet" href="/css/app.css" />
+	</head>
+	<body>
+		<header>
+			<h1>Chess Notation Trainer</h1>
+		</header>
+		<main>
+			<div id="content">
+				<div id="board-container">
+					<b id="blackname"></b>
+					<div id="board"></div>
+					<b id="whitename">White: </b>
+				</div>
+				<div id="moves">
+					<table id="moves-table">
+						<thead>
+							<tr>
+								<th>No.</th>
+								<th>White</th>
+								<th>Black</th>
+							</tr>
+						</thead>
+						<tbody id="moves-list">
+							<!-- Las jugadas correctas se mostrarán aquí -->
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+			<div id="move-input">
+				<input
+					type="text"
+					id="move-input-button"
+					placeholder="Enter your move"
+				/>
+				<button id="submit-move" class="button">Send</button>
+			</div>
+		</main>
+
+		<dialog id="correct">
+			<p>Correct!</p>
+			<form method="dialog">
+				<button id="nextmove" class="button">Next Move</button>
+			</form>
+		</dialog>
+		<dialog id="incorrect">
+			<p>Incorrect!</p>
+			<form method="dialog">
+				<button class="button">Try again</button>
+			</form>
+		</dialog>
+		<dialog id="end">
+			<p>Game Finished</p>
+			<form method="dialog">
+				<button class="button">Train again</button>
+			</form>
+		</dialog>
+
+		<script
+			src="https://code.jquery.com/jquery-3.7.1.min.js"
+			integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+			crossorigin="anonymous"
+		></script>
+		<script src="/js/chessboard-1.0.0.min.js"></script>
+		<script type="module" src="/js/app.js"></script>
+	</body>
+</html>
