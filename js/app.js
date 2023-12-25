@@ -1,4 +1,4 @@
-import { Chess } from "/js/chess.js";
+import { Chess } from "../js/chess.js";
 const correctDialog = document.getElementById("correct");
 const incorrectDialog = document.getElementById("incorrect");
 const endDialog = document.getElementById("end");
